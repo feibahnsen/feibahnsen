@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @feibahnsen
+- 👋 Hi, I’m @audreybahnsen
 - 👀 I’m interested in building apps
 - 🌱 I’m currently learning Java
